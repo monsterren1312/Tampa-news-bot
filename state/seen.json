@@ -1,4 +1,10 @@
 {
-  "seen_hashes": [],
-  "seen_links": []
+  "seen_hashes": [
+    "49be4e1b5f29dbb5b7745316af93e12f7529c681729c30f854442394618024aa",
+    "abe6f0db8cb2a0d315f1e96a9c5cd7a363b2682f3f2498a78c4b8ffa3b05462a"
+  ],
+  "seen_links": [
+    "https://www.wfla.com/news/local-news/citrus-county/citrus-county-confirms-first-case-of-locally-acquired-dengue-fever/",
+    "https://www.wtsp.com/article/news/local/sarasotacounty/lawn-workers-rescue-elderly-women-sinking-car-north-port/67-03b21fbe-c0cb-47f6-acec-a2ec71bbad04"
+  ]
 }
